@@ -21,6 +21,7 @@ knitr::opts_chunk$set(
 
 ## Analityka Medyczna
 - Statystyka z elementami matematyki
+  - Ćwiczenia 1 **(23/02/2023)**: BHP, szeregi statystyczne, cechy i skale statystyczne
 
 ## Farmacja
 - Technologie informacyjne
@@ -30,3 +31,4 @@ knitr::opts_chunk$set(
 
 ## Ratownictwo Medyczne
 - Informatyka i biostatystyka
+  - Ćwiczenia 1 **(22/02/2023)**: BHP, Excel część 1/2

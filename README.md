@@ -9,6 +9,8 @@ semestr letni**
 ## Analityka Medyczna
 
 - Statystyka z elementami matematyki
+  - Ćwiczenia 1 **(23/02/2023)**: BHP, szeregi statystyczne, cechy i
+    skale statystyczne
 
 ## Farmacja
 
@@ -21,3 +23,4 @@ semestr letni**
 ## Ratownictwo Medyczne
 
 - Informatyka i biostatystyka
+  - Ćwiczenia 1 **(22/02/2023)**: BHP, Excel część 1/2
