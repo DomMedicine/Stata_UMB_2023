@@ -22,5 +22,7 @@ semestr letni**
 
 ## Ratownictwo Medyczne
 
-- Informatyka i biostatystyka
+- Informatyka i biostatystyka (zajęcia przesunięto na prośbę studentów:
+  **16:15-17:45**)
   - Ćwiczenia 1 **(22/02/2023)**: BHP, Excel część 1/2
+  - Ćwiczenia 2 **(01/03/2023)**: Excel część 2/2
