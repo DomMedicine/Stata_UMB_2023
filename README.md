@@ -11,6 +11,8 @@ semestr letni**
 - Statystyka z elementami matematyki
   - Ćwiczenia 1 **(23/02/2023)**: BHP, szeregi statystyczne, cechy i
     skale statystyczne
+  - Ćwiczenia 2 **(02/03/2023)**: Miary położenia
+  - Ćwiczenia 3 **(09/03/2023)**: Miary rozproszenia (zmienności)
 
 ## Farmacja
 
@@ -26,3 +28,5 @@ semestr letni**
   **16:15-17:45**)
   - Ćwiczenia 1 **(22/02/2023)**: BHP, Excel część 1/2
   - Ćwiczenia 2 **(01/03/2023)**: Excel część 2/2
+  - Ćwiczenia 3 **(08/03/2023)**: Zaliczenie MS Excel, szeregi
+    statystyczne, cechy i skale statystyczne
